@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "miLibreria.h"
+#include "libreria.h"
 
 int main()
 {
@@ -54,7 +54,7 @@ int main()
         printf("\n\t3) Operaciones realizadas.");
         break;
     case 4:
-        printf("\n4)\t  a)El resultado de A+B es: %d", rtaA);
+        printf("\n\t4)a)El resultado de A+B es: %d", rtaA);
         printf("\n\t  b)El resultado de A-B es: %d", rtaB);
         if(segundoNum != 0)
         {
@@ -86,3 +86,4 @@ int main()
     printf("\n\t5)Salir.\nFin.\n");
     return 0;
 }
+
