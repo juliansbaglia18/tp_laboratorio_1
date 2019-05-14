@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1557876445 source:c:\users\lorena\desktop\tp2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sbaglia.h"
+	"ArrayEmployees.h"
+
+1557738485 c:\users\lorena\desktop\tp2\tp2\sbaglia.h
+
+1557861056 c:\users\lorena\desktop\tp2\tp2\arrayemployees.h
+
+1557864795 source:c:\users\lorena\desktop\tp2\tp2\sbaglia.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1557876829 source:c:\users\lorena\desktop\tp2\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sbaglia.h"
+	"ArrayEmployees.h"
+
