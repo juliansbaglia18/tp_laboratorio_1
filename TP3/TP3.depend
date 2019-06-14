@@ -1,0 +1,219 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533133026 source:c:\users\lorena\desktop\utn\trabajo practico 3\tp3\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533133022 c:\users\lorena\desktop\utn\trabajo practico 3\tp3\win_32\linkedlist.h
+
+1533133022 c:\users\lorena\desktop\utn\trabajo practico 3\tp3\win_32\employee.h
+
+1533133022 source:c:\users\lorena\desktop\utn\trabajo practico 3\tp3\win_32\employee.c
+
+1559727485 source:c:\users\lorena\desktop\utn\trabajo practico 3\tp3\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"Controller.h"
+	"Employee.h"
+	"sbaglia.h"
+
+1533133022 c:\users\lorena\desktop\utn\trabajo practico 3\tp3\win_32\controller.h
+
+1533133022 source:c:\users\lorena\desktop\utn\trabajo practico 3\tp3\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1558644319 c:\users\lorena\desktop\utn\trabajo practico 3\tp3\win_32\sbaglia.h
+
+1559824508 source:c:\users\alumno\desktop\programacion-i-laboratorio-i-master\tp3\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1559817266 c:\users\alumno\desktop\programacion-i-laboratorio-i-master\tp3\win_32\linkedlist.h
+
+1559817266 c:\users\alumno\desktop\programacion-i-laboratorio-i-master\tp3\win_32\employee.h
+
+1559824507 source:c:\users\alumno\desktop\programacion-i-laboratorio-i-master\tp3\win_32\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"sbaglia.h"
+
+1559831197 source:c:\users\alumno\desktop\programacion-i-laboratorio-i-master\tp3\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"sbaglia.h"
+
+1559817266 c:\users\alumno\desktop\programacion-i-laboratorio-i-master\tp3\win_32\controller.h
+
+1559817266 c:\users\alumno\desktop\programacion-i-laboratorio-i-master\tp3\win_32\sbaglia.h
+
+1559817266 source:c:\users\alumno\desktop\programacion-i-laboratorio-i-master\tp3\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1559899302 source:c:\users\lorena\desktop\programacion-i-laboratorio-i-master\tp3\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1559899302 c:\users\lorena\desktop\programacion-i-laboratorio-i-master\tp3\win_32\linkedlist.h
+
+1559899302 c:\users\lorena\desktop\programacion-i-laboratorio-i-master\tp3\win_32\employee.h
+
+1559899302 source:c:\users\lorena\desktop\programacion-i-laboratorio-i-master\tp3\win_32\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"sbaglia.h"
+
+1559899302 c:\users\lorena\desktop\programacion-i-laboratorio-i-master\tp3\win_32\controller.h
+
+1559899302 c:\users\lorena\desktop\programacion-i-laboratorio-i-master\tp3\win_32\sbaglia.h
+
+1559899302 source:c:\users\lorena\desktop\programacion-i-laboratorio-i-master\tp3\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"sbaglia.h"
+
+1559899302 source:c:\users\lorena\desktop\programacion-i-laboratorio-i-master\tp3\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560550443 source:c:\users\lorena\desktop\programacion-i-laboratorio-i-master\tp3 este si\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"sbaglia.h"
+
+1560422238 c:\users\lorena\desktop\programacion-i-laboratorio-i-master\tp3 este si\linkedlist.h
+
+1560550443 c:\users\lorena\desktop\programacion-i-laboratorio-i-master\tp3 este si\controller.h
+
+1560550443 c:\users\lorena\desktop\programacion-i-laboratorio-i-master\tp3 este si\employee.h
+
+1560502651 c:\users\lorena\desktop\programacion-i-laboratorio-i-master\tp3 este si\sbaglia.h
+
+1560551047 source:c:\users\lorena\desktop\programacion-i-laboratorio-i-master\tp3 este si\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1560550443 source:c:\users\lorena\desktop\programacion-i-laboratorio-i-master\tp3 este si\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560551709 source:c:\users\lorena\desktop\programacion-i-laboratorio-i-master\tp3 este si\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560550443 source:c:\users\lorena\desktop\programacion-i-laboratorio-i-master\tp3 este si\sbaglia.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"sbaglia.h"
+
